@@ -7,7 +7,7 @@
       "name" : "allureReporter is not defined",
       "children" : [ {
         "name" : "should login with valid credentials",
-        "uid" : "ac24ac535206a50a",
+        "uid" : "841e015de910bc3c",
         "parentUid" : "f971d806f790fceec3dce6de4fad23ba",
         "status" : "broken",
         "time" : {

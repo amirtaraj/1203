@@ -1,12 +1,12 @@
 {
-  "uid" : "6b210552a72cbde3",
-  "name" : "should do a withdraw Transaction - Withdraw fund",
-  "fullName" : "Withdraw Transaction.should do a withdraw Transaction - Withdraw fund",
-  "historyId" : "d9f599643dbf994941b228fa696ff839",
+  "uid" : "e6157f3fa25fe32d",
+  "name" : "should do a deposit Transaction - Add deposit",
+  "fullName" : "Deposit Transaction.should do a deposit Transaction - Add deposit",
+  "historyId" : "2556299f15576bcddf087fe23d1a2c55",
   "time" : {
-    "start" : 1607784701123,
-    "stop" : 1607784701521,
-    "duration" : 398
+    "start" : 1607784196005,
+    "stop" : 1607784196763,
+    "duration" : 758
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -19,173 +19,173 @@
     "steps" : [ {
       "name" : "findElement",
       "time" : {
-        "start" : 1607784701153,
-        "stop" : 1607784701170,
-        "duration" : 17
+        "start" : 1607784196013,
+        "stop" : 1607784196031,
+        "duration" : 18
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "6ce19c566b14e174",
+        "uid" : "d8bc60abacdbc314",
         "name" : "Request",
-        "source" : "6ce19c566b14e174.json",
+        "source" : "d8bc60abacdbc314.json",
         "type" : "application/json",
         "size" : 80
       }, {
-        "uid" : "26a7edfa3ffcc7b4",
+        "uid" : "85fa7de1437c456d",
         "name" : "Response",
-        "source" : "26a7edfa3ffcc7b4.json",
+        "source" : "85fa7de1437c456d.json",
         "type" : "application/json",
         "size" : 56
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 2
     }, {
       "name" : "elementClick",
       "time" : {
-        "start" : 1607784701183,
-        "stop" : 1607784701248,
-        "duration" : 65
+        "start" : 1607784196040,
+        "stop" : 1607784196113,
+        "duration" : 73
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "16c8aaeacbdf1dfe",
+        "uid" : "1150d74deb220615",
         "name" : "Request",
-        "source" : "16c8aaeacbdf1dfe.json",
+        "source" : "1150d74deb220615.json",
         "type" : "application/json",
         "size" : 30
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 1
     }, {
       "name" : "findElement",
       "time" : {
-        "start" : 1607784701270,
-        "stop" : 1607784701287,
+        "start" : 1607784196212,
+        "stop" : 1607784196229,
         "duration" : 17
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "30c1d09cb13c24cb",
+        "uid" : "f781be2c765f021c",
         "name" : "Request",
-        "source" : "30c1d09cb13c24cb.json",
+        "source" : "f781be2c765f021c.json",
         "type" : "application/json",
         "size" : 47
       }, {
-        "uid" : "e5ea2a8c4786020a",
+        "uid" : "1841b4c7cee8473e",
         "name" : "Response",
-        "source" : "e5ea2a8c4786020a.json",
+        "source" : "1841b4c7cee8473e.json",
         "type" : "application/json",
         "size" : 56
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 2
     }, {
       "name" : "elementClear",
       "time" : {
-        "start" : 1607784701321,
-        "stop" : 1607784701334,
-        "duration" : 13
+        "start" : 1607784196287,
+        "stop" : 1607784196309,
+        "duration" : 22
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "da8f69e033613550",
+        "uid" : "2d432c4be539fcf0",
         "name" : "Request",
-        "source" : "da8f69e033613550.json",
+        "source" : "2d432c4be539fcf0.json",
         "type" : "application/json",
         "size" : 30
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 1
     }, {
       "name" : "elementSendKeys",
       "time" : {
-        "start" : 1607784701340,
-        "stop" : 1607784701422,
-        "duration" : 82
+        "start" : 1607784196324,
+        "stop" : 1607784196416,
+        "duration" : 92
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "2ff80e7fb8ef0dfe",
+        "uid" : "f2a69babda268037",
         "name" : "Request",
-        "source" : "2ff80e7fb8ef0dfe.json",
+        "source" : "f2a69babda268037.json",
         "type" : "application/json",
-        "size" : 46
+        "size" : 47
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 1
     }, {
       "name" : "findElement",
       "time" : {
-        "start" : 1607784701430,
-        "stop" : 1607784701441,
-        "duration" : 11
+        "start" : 1607784196422,
+        "stop" : 1607784196437,
+        "duration" : 15
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "e86eb1eba0953deb",
+        "uid" : "f8e4b22f0bd8c1c",
         "name" : "Request",
-        "source" : "e86eb1eba0953deb.json",
+        "source" : "f8e4b22f0bd8c1c.json",
         "type" : "application/json",
         "size" : 71
       }, {
-        "uid" : "71ad2cb89b6da769",
+        "uid" : "e1fc0e8555411bf9",
         "name" : "Response",
-        "source" : "71ad2cb89b6da769.json",
+        "source" : "e1fc0e8555411bf9.json",
         "type" : "application/json",
         "size" : 56
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 2
     }, {
       "name" : "elementClick",
       "time" : {
-        "start" : 1607784701457,
-        "stop" : 1607784701520,
-        "duration" : 63
+        "start" : 1607784196450,
+        "stop" : 1607784196762,
+        "duration" : 312
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "9af8f1a8be580771",
+        "uid" : "551eba3201c2c217",
         "name" : "Request",
-        "source" : "9af8f1a8be580771.json",
+        "source" : "551eba3201c2c217.json",
         "type" : "application/json",
         "size" : 30
       } ],
       "parameters" : [ ],
-      "hasContent" : true,
       "stepsCount" : 0,
+      "hasContent" : true,
       "shouldDisplayMessage" : false,
       "attachmentsCount" : 1
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "hasContent" : true,
     "stepsCount" : 7,
+    "hasContent" : true,
     "shouldDisplayMessage" : false,
     "attachmentsCount" : 10
   },
@@ -201,16 +201,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "Withdraw Transaction"
+    "value" : "Deposit Transaction"
   }, {
     "name" : "testClass",
-    "value" : "Withdraw Transaction"
+    "value" : "Deposit Transaction"
   }, {
     "name" : "testMethod",
-    "value" : "should do a withdraw Transaction - Withdraw fund"
+    "value" : "should do a deposit Transaction - Add deposit"
   }, {
     "name" : "package",
-    "value" : "Withdraw Transaction"
+    "value" : "Deposit Transaction"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -226,6 +226,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "6b210552a72cbde3.json",
+  "source" : "e6157f3fa25fe32d.json",
   "parameterValues" : [ "Chrome-87.0.4280.88" ]
 }

@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "should login with valid credentials",
-    "uid" : "ac24ac535206a50a",
+    "uid" : "841e015de910bc3c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
@@ -16,7 +16,7 @@
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should load accounts page - show the avialable accounts",
-    "uid" : "3d6fc68b89fc36c4",
+    "uid" : "a1a21adab909aed6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -29,7 +29,7 @@
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should load transactions page - show the transactions for the account",
-    "uid" : "a30a23d293b4b5cb",
+    "uid" : "7656e3c4f6b4b59e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -42,7 +42,7 @@
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should do a deposit Transaction - Add deposit",
-    "uid" : "ba550b3f0cb99547",
+    "uid" : "b0dc17879eb2f364",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -55,7 +55,7 @@
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should do a withdraw Transaction - Withdraw fund",
-    "uid" : "693ca64616038e62",
+    "uid" : "baa0cbc86fcf5c08",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
