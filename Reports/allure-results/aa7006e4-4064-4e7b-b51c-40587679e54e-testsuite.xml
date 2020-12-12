@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607793108879' stop='1607793108926'>
+    <name>Transactions Page Load</name>
+    <title>Transactions Page Load</title>
+    <test-cases>
+        <test-case start='1607793108879' status='passed' stop='1607793108926'>
+            <name>should load transactions page - show the transactions for the account</name>
+            <title>should load transactions page - show the transactions for the account</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-87.0.4280.88'/>
+            </parameters>
+            <steps>
+                <step start='1607793108887' status='passed' stop='1607793108904'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='ae541ee0-2518-456b-89f9-97ab74f99c7f-attachment.json' type='application/json' size='74'/>
+                        <attachment title='Response' source='9cd81d81-3cf8-48c2-998a-ca8199bb2800-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607793108917' status='passed' stop='1607793108925'>
+                    <name>getElementText</name>
+                    <title>getElementText</title>
+                    <attachments>
+                        <attachment title='Request' source='9bd0510c-07af-444a-b748-0519ba8446bb-attachment.json' type='application/json' size='30'/>
+                        <attachment title='Response' source='836354fb-bd75-46e6-a07c-5e35aec8f3bb-attachment.json' type='application/json' size='14'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

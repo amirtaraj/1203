@@ -1,0 +1,231 @@
+{
+  "uid" : "f0a4a58c3ffb921f",
+  "name" : "should do a withdraw Transaction - Withdraw fund",
+  "fullName" : "Withdraw Transaction.should do a withdraw Transaction - Withdraw fund",
+  "historyId" : "d9f599643dbf994941b228fa696ff839",
+  "time" : {
+    "start" : 1607785451313,
+    "stop" : 1607785451542,
+    "duration" : 229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607785451325,
+        "stop" : 1607785451332,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f1b181285fa203ca",
+        "name" : "Request",
+        "source" : "f1b181285fa203ca.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "418c596bcc9d12ba",
+        "name" : "Response",
+        "source" : "418c596bcc9d12ba.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClick",
+      "time" : {
+        "start" : 1607785451343,
+        "stop" : 1607785451371,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d752de574dbf6888",
+        "name" : "Request",
+        "source" : "d752de574dbf6888.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607785451386,
+        "stop" : 1607785451396,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "306a4df16b2a205b",
+        "name" : "Request",
+        "source" : "306a4df16b2a205b.json",
+        "type" : "application/json",
+        "size" : 47
+      }, {
+        "uid" : "6a0cd58f468b1452",
+        "name" : "Response",
+        "source" : "6a0cd58f468b1452.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClear",
+      "time" : {
+        "start" : 1607785451415,
+        "stop" : 1607785451426,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bcb2a26efec13961",
+        "name" : "Request",
+        "source" : "bcb2a26efec13961.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "elementSendKeys",
+      "time" : {
+        "start" : 1607785451431,
+        "stop" : 1607785451483,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a2f4c4f9737d630b",
+        "name" : "Request",
+        "source" : "a2f4c4f9737d630b.json",
+        "type" : "application/json",
+        "size" : 46
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607785451489,
+        "stop" : 1607785451498,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "706fa44adece6f46",
+        "name" : "Request",
+        "source" : "706fa44adece6f46.json",
+        "type" : "application/json",
+        "size" : 71
+      }, {
+        "uid" : "68159e8bb3f69e3c",
+        "name" : "Response",
+        "source" : "68159e8bb3f69e3c.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClick",
+      "time" : {
+        "start" : 1607785451508,
+        "stop" : 1607785451541,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ed662aaf177c0661",
+        "name" : "Request",
+        "source" : "ed662aaf177c0661.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Withdraw Transaction"
+  }, {
+    "name" : "testClass",
+    "value" : "Withdraw Transaction"
+  }, {
+    "name" : "testMethod",
+    "value" : "should do a withdraw Transaction - Withdraw fund"
+  }, {
+    "name" : "package",
+    "value" : "Withdraw Transaction"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-87.0.4280.88"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0a4a58c3ffb921f.json",
+  "parameterValues" : [ "Chrome-87.0.4280.88" ]
+}

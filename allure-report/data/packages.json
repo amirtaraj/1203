@@ -5,7 +5,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "4762f3d5231afb9f",
+      "uid" : "ac24ac535206a50a",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "broken",
       "time" : {
@@ -22,13 +22,13 @@
     "name" : "Accounts Page Load",
     "children" : [ {
       "name" : "should load accounts page - show the avialable accounts",
-      "uid" : "4dab4e42f86edd5a",
+      "uid" : "3d6fc68b89fc36c4",
       "parentUid" : "0104a40c8a77ab252aef655e04d355f3",
       "status" : "passed",
       "time" : {
-        "start" : 1607785441262,
-        "stop" : 1607785450566,
-        "duration" : 9304
+        "start" : 1607793105750,
+        "stop" : 1607793108855,
+        "duration" : 3105
       },
       "flaky" : false,
       "newFailed" : false,
@@ -39,13 +39,13 @@
     "name" : "Transactions Page Load",
     "children" : [ {
       "name" : "should load transactions page - show the transactions for the account",
-      "uid" : "555e64da2fe3665b",
+      "uid" : "a30a23d293b4b5cb",
       "parentUid" : "ec7fc148b29bd94b6c488011870e406f",
       "status" : "passed",
       "time" : {
-        "start" : 1607785450593,
-        "stop" : 1607785450632,
-        "duration" : 39
+        "start" : 1607793108879,
+        "stop" : 1607793108926,
+        "duration" : 47
       },
       "flaky" : false,
       "newFailed" : false,
@@ -56,13 +56,13 @@
     "name" : "Deposit Transaction",
     "children" : [ {
       "name" : "should do a deposit Transaction - Add deposit",
-      "uid" : "35c5794e25034a7d",
+      "uid" : "ba550b3f0cb99547",
       "parentUid" : "f685e016dd124ac1816b1e5926d835c4",
       "status" : "passed",
       "time" : {
-        "start" : 1607785450637,
-        "stop" : 1607785451302,
-        "duration" : 665
+        "start" : 1607793108931,
+        "stop" : 1607793109706,
+        "duration" : 775
       },
       "flaky" : false,
       "newFailed" : false,
@@ -73,13 +73,13 @@
     "name" : "Withdraw Transaction",
     "children" : [ {
       "name" : "should do a withdraw Transaction - Withdraw fund",
-      "uid" : "2da1c438b9169851",
+      "uid" : "693ca64616038e62",
       "parentUid" : "d6c718d74c44cb4a9780d84ea06de903",
       "status" : "passed",
       "time" : {
-        "start" : 1607785451313,
-        "stop" : 1607785451542,
-        "duration" : 229
+        "start" : 1607793109720,
+        "stop" : 1607793109989,
+        "duration" : 269
       },
       "flaky" : false,
       "newFailed" : false,

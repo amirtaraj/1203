@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "should login with valid credentials",
-    "uid" : "4762f3d5231afb9f",
+    "uid" : "ac24ac535206a50a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
@@ -16,52 +16,52 @@
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should load accounts page - show the avialable accounts",
-    "uid" : "4dab4e42f86edd5a",
+    "uid" : "3d6fc68b89fc36c4",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607785441262,
-      "stop" : 1607785450566,
-      "duration" : 9304
+      "start" : 1607793105750,
+      "stop" : 1607793108855,
+      "duration" : 3105
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should load transactions page - show the transactions for the account",
-    "uid" : "555e64da2fe3665b",
+    "uid" : "a30a23d293b4b5cb",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607785450593,
-      "stop" : 1607785450632,
-      "duration" : 39
+      "start" : 1607793108879,
+      "stop" : 1607793108926,
+      "duration" : 47
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should do a deposit Transaction - Add deposit",
-    "uid" : "35c5794e25034a7d",
+    "uid" : "ba550b3f0cb99547",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607785450637,
-      "stop" : 1607785451302,
-      "duration" : 665
+      "start" : 1607793108931,
+      "stop" : 1607793109706,
+      "duration" : 775
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "Chrome-87.0.4280.88" ]
   }, {
     "name" : "should do a withdraw Transaction - Withdraw fund",
-    "uid" : "2da1c438b9169851",
+    "uid" : "693ca64616038e62",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1607785451313,
-      "stop" : 1607785451542,
-      "duration" : 229
+      "start" : 1607793109720,
+      "stop" : 1607793109989,
+      "duration" : 269
     },
     "flaky" : false,
     "newFailed" : false,

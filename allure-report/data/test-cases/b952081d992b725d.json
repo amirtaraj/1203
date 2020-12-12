@@ -1,0 +1,120 @@
+{
+  "uid" : "b952081d992b725d",
+  "name" : "should load transactions page - show the transactions for the account",
+  "fullName" : "Transactions Page Load.should load transactions page - show the transactions for the account",
+  "historyId" : "c1dd2c11a4744c21d943e081e2d065e1",
+  "time" : {
+    "start" : 1607784195920,
+    "stop" : 1607784195999,
+    "duration" : 79
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607784195942,
+        "stop" : 1607784195969,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7013f92e2fec1efa",
+        "name" : "Request",
+        "source" : "7013f92e2fec1efa.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "460685cfc7a69a88",
+        "name" : "Response",
+        "source" : "460685cfc7a69a88.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "getElementText",
+      "time" : {
+        "start" : 1607784195987,
+        "stop" : 1607784195998,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a60a4de355263713",
+        "name" : "Request",
+        "source" : "a60a4de355263713.json",
+        "type" : "application/json",
+        "size" : 30
+      }, {
+        "uid" : "e83970cfe0563f5b",
+        "name" : "Response",
+        "source" : "e83970cfe0563f5b.json",
+        "type" : "application/json",
+        "size" : 14
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Transactions Page Load"
+  }, {
+    "name" : "testClass",
+    "value" : "Transactions Page Load"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load transactions page - show the transactions for the account"
+  }, {
+    "name" : "package",
+    "value" : "Transactions Page Load"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-87.0.4280.88"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b952081d992b725d.json",
+  "parameterValues" : [ "Chrome-87.0.4280.88" ]
+}

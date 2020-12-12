@@ -1,0 +1,231 @@
+{
+  "uid" : "2457637d8723f958",
+  "name" : "should do a deposit Transaction - Add deposit",
+  "fullName" : "Deposit Transaction.should do a deposit Transaction - Add deposit",
+  "historyId" : "2556299f15576bcddf087fe23d1a2c55",
+  "time" : {
+    "start" : 1607784700268,
+    "stop" : 1607784701107,
+    "duration" : 839
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607784700273,
+        "stop" : 1607784700286,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f049f65fa6ccf560",
+        "name" : "Request",
+        "source" : "f049f65fa6ccf560.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "8d302bbe4ae72280",
+        "name" : "Response",
+        "source" : "8d302bbe4ae72280.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClick",
+      "time" : {
+        "start" : 1607784700300,
+        "stop" : 1607784700352,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "926c8e6b55e17a86",
+        "name" : "Request",
+        "source" : "926c8e6b55e17a86.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607784700422,
+        "stop" : 1607784700492,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "542fba649117afad",
+        "name" : "Request",
+        "source" : "542fba649117afad.json",
+        "type" : "application/json",
+        "size" : 47
+      }, {
+        "uid" : "e591209e6ed1c9c6",
+        "name" : "Response",
+        "source" : "e591209e6ed1c9c6.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClear",
+      "time" : {
+        "start" : 1607784700509,
+        "stop" : 1607784700536,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6595b2a42586ae9c",
+        "name" : "Request",
+        "source" : "6595b2a42586ae9c.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "elementSendKeys",
+      "time" : {
+        "start" : 1607784700581,
+        "stop" : 1607784700722,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c51b95b4a7a3598d",
+        "name" : "Request",
+        "source" : "c51b95b4a7a3598d.json",
+        "type" : "application/json",
+        "size" : 47
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "findElement",
+      "time" : {
+        "start" : 1607784700738,
+        "stop" : 1607784700761,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "da82ed908730bbd0",
+        "name" : "Request",
+        "source" : "da82ed908730bbd0.json",
+        "type" : "application/json",
+        "size" : 71
+      }, {
+        "uid" : "fa02aaeceb0fc4ce",
+        "name" : "Response",
+        "source" : "fa02aaeceb0fc4ce.json",
+        "type" : "application/json",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "elementClick",
+      "time" : {
+        "start" : 1607784700784,
+        "stop" : 1607784701106,
+        "duration" : 322
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "aafc7cc7d7e370ea",
+        "name" : "Request",
+        "source" : "aafc7cc7d7e370ea.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Deposit Transaction"
+  }, {
+    "name" : "testClass",
+    "value" : "Deposit Transaction"
+  }, {
+    "name" : "testMethod",
+    "value" : "should do a deposit Transaction - Add deposit"
+  }, {
+    "name" : "package",
+    "value" : "Deposit Transaction"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-87.0.4280.88"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2457637d8723f958.json",
+  "parameterValues" : [ "Chrome-87.0.4280.88" ]
+}
