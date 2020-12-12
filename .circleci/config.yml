@@ -39,7 +39,7 @@ jobs:
 
       - store_test_results:
           path: ./Reports/allure-results
-          destination: circleci-docs
+          destination: test-results
 
       - save_cache:
           paths:
