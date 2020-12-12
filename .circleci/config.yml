@@ -31,10 +31,9 @@ jobs:
 
       - run: npm run install:all
       - run: npm run test
-      - run: npm run report
 
       - store_test_results:
-          path: ./Reports/allure-results
+          path: ./allure-report
 
       - save_cache:
           paths:
