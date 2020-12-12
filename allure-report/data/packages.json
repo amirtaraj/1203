@@ -5,7 +5,7 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "841e015de910bc3c",
+      "uid" : "4658bcd3eae7f623",
       "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
       "status" : "broken",
       "time" : {
@@ -22,7 +22,7 @@
     "name" : "Accounts Page Load",
     "children" : [ {
       "name" : "should load accounts page - show the avialable accounts",
-      "uid" : "a1a21adab909aed6",
+      "uid" : "d854a9c848fb5124",
       "parentUid" : "0104a40c8a77ab252aef655e04d355f3",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
     "name" : "Transactions Page Load",
     "children" : [ {
       "name" : "should load transactions page - show the transactions for the account",
-      "uid" : "7656e3c4f6b4b59e",
+      "uid" : "949ff39cf50b4864",
       "parentUid" : "ec7fc148b29bd94b6c488011870e406f",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
     "name" : "Deposit Transaction",
     "children" : [ {
       "name" : "should do a deposit Transaction - Add deposit",
-      "uid" : "b0dc17879eb2f364",
+      "uid" : "de6bb405ef649be2",
       "parentUid" : "f685e016dd124ac1816b1e5926d835c4",
       "status" : "passed",
       "time" : {
@@ -73,7 +73,7 @@
     "name" : "Withdraw Transaction",
     "children" : [ {
       "name" : "should do a withdraw Transaction - Withdraw fund",
-      "uid" : "baa0cbc86fcf5c08",
+      "uid" : "c0173346d26fa1ac",
       "parentUid" : "d6c718d74c44cb4a9780d84ea06de903",
       "status" : "passed",
       "time" : {

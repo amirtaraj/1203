@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "841e015de910bc3c",
+      "uid" : "4658bcd3eae7f623",
       "status" : "broken",
       "statusDetails" : "allureReporter is not defined",
       "time" : {
@@ -29,7 +29,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a1a21adab909aed6",
+      "uid" : "d854a9c848fb5124",
       "status" : "passed",
       "time" : {
         "start" : 1607793105750,
@@ -48,7 +48,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "baa0cbc86fcf5c08",
+      "uid" : "c0173346d26fa1ac",
       "status" : "passed",
       "time" : {
         "start" : 1607793109720,
@@ -67,7 +67,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7656e3c4f6b4b59e",
+      "uid" : "949ff39cf50b4864",
       "status" : "passed",
       "time" : {
         "start" : 1607793108879,
@@ -86,7 +86,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b0dc17879eb2f364",
+      "uid" : "de6bb405ef649be2",
       "status" : "passed",
       "time" : {
         "start" : 1607793108931,
