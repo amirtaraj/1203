@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607779946984' stop='1607779955095'>
+    <name>My Login application</name>
+    <title>My Login application</title>
+    <test-cases>
+        <test-case start='1607779946984' status='broken' stop='1607779955093'>
+            <name>should login with valid credentials</name>
+            <title>should login with valid credentials</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-87.0.4280.88'/>
+            </parameters>
+            <steps>
+                <step start='1607779947001' status='passed' stop='1607779953910'>
+                    <name>navigateTo</name>
+                    <title>navigateTo</title>
+                    <attachments>
+                        <attachment title='Request' source='7fbc71b6-8990-4f14-ae54-24109fd50aa8-attachment.json' type='application/json' size='55'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779953919' status='passed' stop='1607779953926'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='0adef4c4-f40f-4046-9f09-bdf47472e340-attachment.json' type='application/json' size='53'/>
+                        <attachment title='Response' source='46f5b6b9-673a-4777-82ba-306a11e0ff34-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779953944' status='passed' stop='1607779953953'>
+                    <name>elementClear</name>
+                    <title>elementClear</title>
+                    <attachments>
+                        <attachment title='Request' source='35f45deb-d092-4b6b-b7b8-ccd722c959aa-attachment.json' type='application/json' size='30'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779953964' status='passed' stop='1607779954029'>
+                    <name>elementSendKeys</name>
+                    <title>elementSendKeys</title>
+                    <attachments>
+                        <attachment title='Request' source='72503019-35ce-48fe-bc33-d7d8c7a50c16-attachment.json' type='application/json' size='52'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779954033' status='passed' stop='1607779954036'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='311e8c30-8ff4-4719-8921-e54475f01554-attachment.json' type='application/json' size='53'/>
+                        <attachment title='Response' source='37a342c5-0f0e-4771-a91b-6ac59adc44e7-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779954047' status='passed' stop='1607779954055'>
+                    <name>elementClear</name>
+                    <title>elementClear</title>
+                    <attachments>
+                        <attachment title='Request' source='93d348a7-3a4c-492e-bf2d-d977841fc168-attachment.json' type='application/json' size='30'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779954063' status='passed' stop='1607779954173'>
+                    <name>elementSendKeys</name>
+                    <title>elementSendKeys</title>
+                    <attachments>
+                        <attachment title='Request' source='b7648c68-3dd1-4ccb-bb14-d5473b177041-attachment.json' type='application/json' size='64'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779954177' status='passed' stop='1607779954182'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='9d1ffde7-70c8-4018-b71c-bb79ade856ec-attachment.json' type='application/json' size='67'/>
+                        <attachment title='Response' source='bbc832c6-7e91-4869-a413-c8a075f83c37-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779954190' status='passed' stop='1607779954254'>
+                    <name>elementClick</name>
+                    <title>elementClick</title>
+                    <attachments>
+                        <attachment title='Request' source='db47b679-b1e2-4626-90d4-55fe3d7c53db-attachment.json' type='application/json' size='30'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779955021' status='passed' stop='1607779955027'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='2a49efc1-bb07-4838-9148-0a080cfbf4b0-attachment.json' type='application/json' size='50'/>
+                        <attachment title='Response' source='1a8ca702-a9ae-426b-92ba-3fd937be5159-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779955042' status='passed' stop='1607779955051'>
+                    <name>findElements</name>
+                    <title>findElements</title>
+                    <attachments>
+                        <attachment title='Request' source='097021fb-26ff-4f9f-9e97-cfc55fb82057-attachment.json' type='application/json' size='50'/>
+                        <attachment title='Response' source='64bf7b6b-5fa4-4925-bbdc-96b4473ac835-attachment.json' type='application/json' size='66'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779955066' status='passed' stop='1607779955069'>
+                    <name>findElement</name>
+                    <title>findElement</title>
+                    <attachments>
+                        <attachment title='Request' source='1bca426d-1120-40e1-a807-39b4461f6853-attachment.json' type='application/json' size='50'/>
+                        <attachment title='Response' source='dc7d5347-601a-4dac-b161-865b757e8835-attachment.json' type='application/json' size='56'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1607779955080' status='passed' stop='1607779955088'>
+                    <name>getElementText</name>
+                    <title>getElementText</title>
+                    <attachments>
+                        <attachment title='Request' source='76712dfa-1a6d-4300-a20d-b5452233660c-attachment.json' type='application/json' size='30'/>
+                        <attachment title='Response' source='28abf29b-31db-458b-bfcf-cedb9469274d-attachment.json' type='application/json' size='36'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>allureReporter is not defined</message>
+                <stack-trace>ReferenceError: allureReporter is not defined
+                    at Context.&lt;anonymous> (D:\Develop\1203\test\ui\specs\example.e2e.js:12:13)
+                    at Context.executeSync (D:\Develop\1203\node_modules\@wdio\sync\build\index.js:25:22)
+                    at D:\Develop\1203\node_modules\@wdio\sync\build\index.js:46:68</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

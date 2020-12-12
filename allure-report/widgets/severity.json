@@ -1,0 +1,51 @@
+[ {
+  "uid" : "2da1c438b9169851",
+  "name" : "should do a withdraw Transaction - Withdraw fund",
+  "time" : {
+    "start" : 1607785451313,
+    "stop" : 1607785451542,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "555e64da2fe3665b",
+  "name" : "should load transactions page - show the transactions for the account",
+  "time" : {
+    "start" : 1607785450593,
+    "stop" : 1607785450632,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35c5794e25034a7d",
+  "name" : "should do a deposit Transaction - Add deposit",
+  "time" : {
+    "start" : 1607785450637,
+    "stop" : 1607785451302,
+    "duration" : 665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4762f3d5231afb9f",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1607779946984,
+    "stop" : 1607779955093,
+    "duration" : 8109
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4dab4e42f86edd5a",
+  "name" : "should load accounts page - show the avialable accounts",
+  "time" : {
+    "start" : 1607785441262,
+    "stop" : 1607785450566,
+    "duration" : 9304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

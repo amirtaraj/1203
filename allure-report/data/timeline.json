@@ -1,0 +1,191 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should do a deposit Transaction - Add deposit",
+      "uid" : "35c5794e25034a7d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607785450637,
+        "stop" : 1607785451302,
+        "duration" : 665
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "91a3719cf81371ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607778736033,
+        "stop" : 1607778763514,
+        "duration" : 27481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should do a deposit Transaction - Add deposit",
+      "uid" : "a89e066cf55e6ce6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784700268,
+        "stop" : 1607784701107,
+        "duration" : 839
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should do a withdraw Transaction - Withdraw fund",
+      "uid" : "1663eb9c67780d13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784701123,
+        "stop" : 1607784701521,
+        "duration" : 398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should do a withdraw Transaction - Withdraw fund",
+      "uid" : "2da1c438b9169851",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607785451313,
+        "stop" : 1607785451542,
+        "duration" : 229
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "4762f3d5231afb9f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1607779946984,
+        "stop" : 1607779955093,
+        "duration" : 8109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should do a deposit Transaction - Add deposit",
+      "uid" : "3ed12c55c81799bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784196005,
+        "stop" : 1607784196763,
+        "duration" : 758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load accounts page - show the avialable accounts",
+      "uid" : "cea49f48ac8bf04d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784689757,
+        "stop" : 1607784700140,
+        "duration" : 10383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load transactions page - show the transactions for the account",
+      "uid" : "8733dc9bed24506e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784195920,
+        "stop" : 1607784195999,
+        "duration" : 79
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load accounts page - show the avialable accounts",
+      "uid" : "156ec69bd8fcc0f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784188020,
+        "stop" : 1607784195893,
+        "duration" : 7873
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should do a withdraw Transaction - Withdraw fund",
+      "uid" : "9e9d3a2a3cee1fd8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784196773,
+        "stop" : 1607784197077,
+        "duration" : 304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load transactions page - show the transactions for the account",
+      "uid" : "645e796fe3ceb7bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607784700187,
+        "stop" : 1607784700261,
+        "duration" : 74
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load transactions page - show the transactions for the account",
+      "uid" : "555e64da2fe3665b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607785450593,
+        "stop" : 1607785450632,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    }, {
+      "name" : "should load accounts page - show the avialable accounts",
+      "uid" : "4dab4e42f86edd5a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607785441262,
+        "stop" : 1607785450566,
+        "duration" : 9304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-87.0.4280.88" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

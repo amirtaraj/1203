@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "allureReporter is not defined",
+      "children" : [ {
+        "name" : "should login with valid credentials",
+        "uid" : "4762f3d5231afb9f",
+        "parentUid" : "f971d806f790fceec3dce6de4fad23ba",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607779946984,
+          "stop" : 1607779955093,
+          "duration" : 8109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome-87.0.4280.88" ]
+      } ],
+      "uid" : "f971d806f790fceec3dce6de4fad23ba"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -8,7 +8,8 @@
     "test": "cd redux-bank && npm-run-all -p -r start start:mock test:all",
     "uitest": "wdio ./wdio.conf.js",
     "apitest": "mocha ./test/api/specs/reduxBank.test.js",
-    "prftest": "./node_modules/.bin/mocha --recursive"
+    "prftest": "./node_modules/.bin/mocha --recursive",
+    "open-allure": "./node_modules/.bin/allure generate ./Reports/allure-results --clean && allure open"
   },
   "repository": {
     "type": "git",

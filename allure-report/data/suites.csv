@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 12 20:34:01 IST 2020","Sat Dec 12 20:34:10 IST 2020","9304","","Accounts Page Load","","Accounts Page Load","should load accounts page - show the avialable accounts","should load accounts page - show the avialable accounts",""
+"passed","Sat Dec 12 20:34:10 IST 2020","Sat Dec 12 20:34:11 IST 2020","665","","Deposit Transaction","","Deposit Transaction","should do a deposit Transaction - Add deposit","should do a deposit Transaction - Add deposit",""
+"passed","Sat Dec 12 20:34:10 IST 2020","Sat Dec 12 20:34:10 IST 2020","39","","Transactions Page Load","","Transactions Page Load","should load transactions page - show the transactions for the account","should load transactions page - show the transactions for the account",""
+"passed","Sat Dec 12 20:34:11 IST 2020","Sat Dec 12 20:34:11 IST 2020","229","","Withdraw Transaction","","Withdraw Transaction","should do a withdraw Transaction - Withdraw fund","should do a withdraw Transaction - Withdraw fund",""
+"broken","Sat Dec 12 19:02:26 IST 2020","Sat Dec 12 19:02:35 IST 2020","8109","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
