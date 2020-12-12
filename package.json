@@ -9,7 +9,8 @@
     "uitest": "wdio ./wdio.conf.js",
     "apitest": "mocha ./test/api/specs/reduxBank.test.js",
     "prftest": "./node_modules/.bin/mocha --recursive",
-    "open:allure": "./node_modules/.bin/allure generate ./Reports/allure-results --clean && allure open"
+    "open:allure": "./node_modules/.bin/allure generate ./Reports/allure-results --clean && allure open",
+    "allure": "./node_modules/.bin/allure generate ./Reports/allure-results --clean"
   },
   "repository": {
     "type": "git",
