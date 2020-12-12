@@ -32,9 +32,6 @@ jobs:
       - run: npm run install:all
       - run: npm run test
 
-      - run:
-          name: Build the Report
-          command: npm run open-allure
       - store_artifacts:
           path: ./Reports/allure-results
           destination: circleci-docs
@@ -42,6 +39,7 @@ jobs:
 
       - store_test_results:
           path: ./Reports/allure-results
+          destination: circleci-docs
 
       - save_cache:
           paths:
