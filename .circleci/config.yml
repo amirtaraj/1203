@@ -33,7 +33,8 @@ jobs:
       - run: npm run test
 
       - store_test_results:
-        path: ./Reports/allure-results
+          path: 
+            - ./Reports/allure-results
 
       - save_cache:
           paths:

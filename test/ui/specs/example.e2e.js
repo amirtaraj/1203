@@ -9,6 +9,7 @@ describe('My Login application', () => {
         expect(SecurePage.flashAlert).toBeExisting();
         expect(SecurePage.flashAlert).toHaveTextContaining(
             'You logged into a secure area!');
+            allureReporter.addFeature('Feature')
     });
 });
 
